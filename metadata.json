@@ -1,0 +1,7 @@
+{
+  "name": "INKGENIUS (NEW)",
+  "description": "A powerful AI tool to generate realistic tattoo designs from text prompts and convert any image into a clean tattoo stencil, complete with PNG downloads for both.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
